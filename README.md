@@ -23,11 +23,11 @@ que recibe el número de milisegundos que espera el programa
 
 ¿Qué es un package en Java?
 
-
+Un contenedor en el que almacenar archivos para que no se mezclen los datos por si solos.
 
 ¿Qué relación tiene con la sentencia import?
 
-
+Se usa esta sentencia para relacionar datos entre contenedores.
 
 Crea un paquete llamado utilidades con una clase llamada Cadena con dos Métodos Estáticos:
 
@@ -81,6 +81,9 @@ public class PruebaSleep {
 }
 ```
 En el programa anterior, ¿Cuál es la salida?
+
+
+
 ¿Cómo conseguimos que se imprima prueba?
 
 
